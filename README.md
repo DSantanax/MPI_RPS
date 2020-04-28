@@ -4,10 +4,12 @@
     - MPJExpress library
 
 #Run:
-    -
+    - -jar [PATH TO starter.jar] MPITest -np 3
 
 #Compile:
     - 
+#IDE
+    - Edit configuration and specify the environment variable & VM option for the MPJ starter.jar
 
 #Arguments:
-    - Specify the number of games Integer
+    - Specify the number of games Integer format
